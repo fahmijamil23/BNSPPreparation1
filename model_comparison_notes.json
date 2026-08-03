@@ -1,0 +1,4 @@
+{
+  "best_model": "XGBoost",
+  "alasan_pemilihan": "XGBoost dipilih karena F1-macro tertinggi (0.8204) di antara 6 algoritma yang diuji. Meski waktu training relatif lebih lama, waktu prediksi (pred_time_sec) tetap cepat sehingga cocok untuk kebutuhan real-time deployment."
+}
