@@ -1,7 +1,7 @@
 streamlit
-streamlit
 pandas
 scikit-learn
 xgboost
 joblib
 nltk
+langdetect
