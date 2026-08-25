@@ -1,0 +1,17 @@
+{
+  "total_sebelum_dedup": 44465,
+  "total_setelah_dedup": 42054,
+  "duplikat_dihapus": 2411,
+  "jumlah_kategori": 6,
+  "category_counts": {
+    "religion": 7910,
+    "age": 7824,
+    "ethnicity": 7344,
+    "gender": 7273,
+    "not_cyberbullying": 6447,
+    "other_cyberbullying": 5256
+  },
+  "avg_tweet_length": 13.150639653778475,
+  "min_tweet_length": 1,
+  "max_tweet_length": 376
+}
